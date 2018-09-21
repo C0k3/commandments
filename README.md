@@ -2,7 +2,7 @@
 
 ## Commandments of DevOps
 
-1. Code Well
+### 1. Code Well
 
 Gitflow - feature branches.  Apprval process.  2 halves of the same coin.  GitHub will enforce reviews before merges.  One branch will be called main - upstream/master.  
 
@@ -14,13 +14,13 @@ Each platform has coding standards for CCNA.  Serverless only has naming convent
 
 Write testable code. Enforce standards through automation. START WITH A WIKI.  STATIC ANALYSIS NO SQUIGGLY LINES, 80 to 90% CODE COVERAGE, KPIS with tools and results.  E.g. code review done.  Coder does their pieces and reviews feature branch and enforce sign off.
 
-2. Automate Quality
+### 2. Automate Quality
 
 Use automated quality to write code well.
 
-3. Monitor All Things
+### 3. Monitor All Things
 
 
-4. Live Forever
+### 4. Live Forever
 
 
