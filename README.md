@@ -6,8 +6,21 @@
 
 Gitflow - feature branches.  Apprval process.  2 halves of the same coin.  GitHub will enforce reviews before merges.  One branch will be called main - upstream/master.  
 
+Atlassian strategies of branching.
+
+Use tools that provide versioning, have reviews happen, some pairing to review it.
+
+Each platform has coding standards for CCNA.  Serverless only has naming conventions.
+
+Write testable code. Enforce standards through automation. START WITH A WIKI.  STATIC ANALYSIS NO SQUIGGLY LINES, 80 to 90% CODE COVERAGE, KPIS with tools and results.  E.g. code review done.  Coder does their pieces and reviews feature branch and enforce sign off.
+
 2. Automate Quality
+
+Use automated quality to write code well.
+
 3. Monitor All Things
+
+
 4. Live Forever
 
 
