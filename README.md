@@ -2,6 +2,12 @@
 
 ## Commandments of DevOps
 
+1. [ Code Well ](#codeWell)
+2. [ Automate Quality ](#automateQuality)
+3. [ Monitor All Things ](#monitorAllThings)
+4. [ Live Forever ](#liveForever)
+
+<a name="codeWell"></a>
 ### 1. Code Well
 
 IN PROGRESS
@@ -16,13 +22,15 @@ Each platform has coding standards for CCNA.  Serverless only has naming convent
 
 Write testable code. Enforce standards through automation. START WITH A WIKI.  STATIC ANALYSIS NO SQUIGGLY LINES, 80 to 90% CODE COVERAGE, KPIS with tools and results.  E.g. code review done.  Coder does their pieces and reviews feature branch and enforce sign off.
 
+<a name="automateQuality"></a>
 ### 2. Automate Quality
 
 Use automated quality to write code well.
 
+<a name="monitorAllThings"></a>
 ### 3. Monitor All Things
 
-
+<a name="liveForever"></a>
 ### 4. Live Forever
 
 
