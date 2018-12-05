@@ -44,4 +44,4 @@ Application and infrastructure level monitoring.
 
 Load balancing, redundant systems, clustered deployments, failover processes
 
-
+###### Adapted from https://medium.com/patrickbrandt/devops-zen-6307f83faf67 by @patrickbrandt
