@@ -1,6 +1,5 @@
 # The Coca-Cola Company
 
-    https://github.com/collections/clean-code-linters
 
 ## Commandments of DevOps
 
@@ -29,7 +28,11 @@ Write testable code. Enforce standards through automation. START WITH A WIKI.  S
 
 Use automated quality to write code well.
 
-Linting, Unit Testing, Integration Testing, Security Scanning
+Unit Testing, Integration Testing, Security Scanning
+
+#### Linting
+
+https://github.com/collections/clean-code-linters
 
 <a id="monitorAllThings"></a>
 ### 3. Monitor All Things
