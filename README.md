@@ -1,5 +1,7 @@
 # The Coca-Cola Company
 
+    https://github.com/collections/clean-code-linters
+
 ## Commandments of DevOps
 
 1. [ Code Well ](#codeWell)
@@ -27,10 +29,16 @@ Write testable code. Enforce standards through automation. START WITH A WIKI.  S
 
 Use automated quality to write code well.
 
+Linting, Unit Testing, Integration Testing, Security Scanning
+
 <a id="monitorAllThings"></a>
 ### 3. Monitor All Things
 
+Application and infrastructure level monitoring.
+
 <a id="liveForever"></a>
 ### 4. Live Forever
+
+Load balancing, redundant systems, clustered deployments, failover processes
 
 
