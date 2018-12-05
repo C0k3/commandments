@@ -14,7 +14,7 @@
 
 IN PROGRESS
 
-Gitflow - feature branches.  Apprval process.  2 halves of the same coin.  GitHub will enforce reviews before merges.  One branch will be called main - upstream/master.  
+Gitflow - feature branches.  Approval process.  2 halves of the same coin.  GitHub will enforce reviews before merges.  One branch will be called main - upstream/master.  
 
 Atlassian strategies of branching.
 
