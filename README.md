@@ -42,6 +42,6 @@ Application and infrastructure level monitoring.
 <a id="liveForever"></a>
 ### 4. Live Forever
 
-Load balancing, redundant systems, clustered deployments, failover processes
+Load balancing, redundant systems, clustered deployments, failover processes, serverless
 
 ###### Adapted from https://medium.com/patrickbrandt/devops-zen-6307f83faf67 by @patrickbrandt
